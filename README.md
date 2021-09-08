@@ -34,11 +34,8 @@ Noch ein Hint weil's so schön ist!
 
 ### Codebeispiel
 
-{% code title="hello.sh" %}
 ```bash
 # Code geht auch klar
 $yo = "mama";
 ```
-{% endcode %}
-
 
