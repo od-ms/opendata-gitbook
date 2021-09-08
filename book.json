@@ -2,7 +2,7 @@
     "title": "Open Data Content",
     "author": "OD MS",
     "gitbook": "3.2.3",
-    "plugins": ["hints", "tabs2", "prism", "copy-code", "codeblock-filename", "code-tabs", "downloadpdf", "insert-logo", "hide-published-with"],
+    "plugins": ["hints", "tabs2", "prism", "codeblock-filename", "code-tabs", "downloadpdf", "insert-logo", "hide-published-with"],
     "pluginsConfig": {
         "insert-logo": {
             "url": "https://avatars.githubusercontent.com/u/50825288?v=4",
