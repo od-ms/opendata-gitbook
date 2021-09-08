@@ -5,7 +5,6 @@
 /* Use Ubuntu font instead of the default Railway font */
 body {
     font-family: Ubuntu;
-    margin: 2rem;
     font-size: 2rem;
 }
 
@@ -20,6 +19,10 @@ kbd {
     color: #000000;
     background-color: #f7f7f7;
 }
+/* header logo */
+.book-logo img {
+    max-width: 200px;
+}
 
 /* Over-ride maximum page width - default 800px
  - if over-ridden then paging arrows can appear over text*/
@@ -27,7 +30,6 @@ kbd {
 .page-inner {
     max-width: 1000px;
 }
-
 
 .book-body p , .book-body h1,.book-body h2,.book-body h3,.book-body h4,.book-body h5,.book-body h6,.book-body div,.book-body span ,  .summary , .summary li , .summary li a  {
     font-family : "Ubuntu", "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;

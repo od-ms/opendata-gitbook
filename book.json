@@ -2,16 +2,21 @@
     "title": "Open Data Content",
     "author": "OD MS",
     "gitbook": "3.2.3",
-    "plugins": ["hints", "tabs2", "code", "prism", "codeblock-filename", "downloadpdf", "insert-logo", "hide-published-with"],
+    "plugins": [
+        "hints", "tabs2",
+        "prism-ext", "-highlight",
+        "downloadpdf", "insert-logo",
+        "hide-published-with"
+    ],
     "pluginsConfig": {
         "insert-logo": {
             "url": "https://avatars.githubusercontent.com/u/50825288?v=4",
             "style": "background: none;"
-        }, 
+        },
         "downloadpdf": {
           "base": "https://od-ms.github.io/opendata-gitbook/mybook/ebook.pdf",
           "label": "PDF",
           "multilingual": false
-        }        
+        }
     }
 }

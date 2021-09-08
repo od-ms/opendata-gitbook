@@ -32,10 +32,32 @@ Noch ein Hint weil's so schön ist!
 | Geht noch was | Jau |
 | Mit drei Zeilen | und Zahlen? 234€ |
 
-### Codebeispiel
+### Codebeispiele
+
+Test #1
 
 ```bash
 # Code geht auch klar
 $yo = "mama";
 ```
 
+Test #2
+
+    Einrücken mit Tab
+    In zwei Zeilen
+
+Test #3
+
+  Einrücken mit 2 spaces
+  auch in zwei Zeilen
+
+Test #4
+
+Inline `code` soll es ebenfalls geben.
+
+
+Test #5
+
+```
+    Code mit einrückung und backticks
+```
