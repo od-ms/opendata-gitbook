@@ -2,5 +2,5 @@
     "title": "Open Data Content",
     "author": "OD MS",
     "gitbook": "3.2.3",
-    "plugins": ["hints", "tabs"]
+    "plugins": ["hints", "tabs2"]
 }
