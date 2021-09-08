@@ -2,5 +2,11 @@
     "title": "Open Data Content",
     "author": "OD MS",
     "gitbook": "3.2.3",
-    "plugins": ["hints", "tabs2", "api"]
+    "plugins": ["hints", "tabs2", "api", "downloadpdf", "insert-logo"],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "https://avatars.githubusercontent.com/u/50825288?v=4",
+            "style": "background: none;"
+        }
+    }
 }
