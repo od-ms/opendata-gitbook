@@ -9,7 +9,7 @@ description: >-
 ## Einführung: Offene Behördendaten
 
 {% hint style="info" %}
-Viele Bundes- und Landesministerien veröffentlichen aktuelle Daten auf einfach nutzbaren Internetportalen. Mit geringem Aufwand können Lehrkräften diese Webseiten nutzen, um den Unterricht mit relevanten Fakten zu unterlegen und gleichzeitig die Medienkompetenz ihrer Schülerinnen und Schüler zu stärken.
+Viele Bundes- und Landesministerien veröffentlichen aktuelle Daten auf einfach nutzbaren Internetportalen. Mit geringem Aufwand können Lehrkräfte diese Webseiten nutzen, um den Unterricht mit relevanten Fakten zu unterlegen und gleichzeitig die Medienkompetenz ihrer Schülerinnen und Schüler zu stärken.
 {% endhint %}
 
 | Beispiel | Fächer | Geeignet |
