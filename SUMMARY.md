@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Aktuelle Behördendaten im Schulunterricht nutzen](README.md)
+* [Statistikatlas NRW](statistikatlas-nrw.md)
+* [Deutschlandatlas](deutschlandatlas.md)
 

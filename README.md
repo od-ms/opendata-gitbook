@@ -1,63 +1,38 @@
 ---
-description: Eine Testseite mit verschiedenen Inhalten.
+description: >-
+  "Open Data" ermöglicht es, Lehrplaninhalte mit tagesaktuellen Fakten zu
+  füllen.
 ---
 
-# Initial page
+# Aktuelle Behördendaten im Schulunterricht nutzen
 
-## Open Data
-
-Testen was man hier so machen kann..
+## Einführung: Offene Behördendaten
 
 {% hint style="info" %}
-Hints finde ich ja turbo cool! Wie macht man denn sowas in Markdown? Das würd ich ja gern mal sehen.
+Viele Bundes- und Landesministerien veröffentlichen aktuelle Daten auf einfach nutzbaren Internetportalen. Mit geringem Aufwand können Lehrkräften diese Webseiten nutzen, um den Unterricht mit relevanten Fakten zu unterlegen und gleichzeitig die Medienkompetenz ihrer Schülerinnen und Schüler zu stärken.
 {% endhint %}
 
-{% tabs %}
-{% tab title="First Tab" %}
-Öhhm .. Tabs, seriously?
-{% endtab %}
+| Beispiel | Fächer | Geeignet |
+| :--- | :--- | :--- |
+| Statistikatlas NRW | Deutsch, Erdkunde, Biologie, Sozialkunde | ab Klasse 5 |
+| Deutschlandatlas | Erdkunde, Politik | ab Klasse 5 |
+| Weltbank Data \(englisch\) | Politik, Sozialkunde, | ab Klasse 7 |
 
-{% tab title="Außerdem" %}
-Außerdem kann auf dem zweiten Tab auch was stehen
-{% endtab %}
-{% endtabs %}
+## Was sind offene Behördendaten?
 
-{% hint style="warning" %}
-Noch ein Hint weil's so schön ist!
-{% endhint %}
+Seit Jahren gibt es einen Trend zur Schaffung von mehr Transparenz in Verwaltungen, indem die Behörden die Daten veröffentlichen, auf denen ihre Entscheidungen basieren. Das Veröffentlichen von gemeinsamen Kennzahlen hilft, regionale Vergleiche zu ermöglichen, wie z.B. durch Inzidenz-Werte in der Corona-Zeit. Diese deutschlandweit auf Kreis-Ebene verfügbare Daten sind ein wichtiges Mittel zur Steuerung des politischen Geschehens.
 
-| Tabelle | Spalte \#2 |
-| :--- | :--- |
-| Könnte hier was stehen | Und hier auch? |
-| Geht noch was | Jau |
-| Mit drei Zeilen | und Zahlen? 234€ |
+Die Datenstrategie der Bundesregierung fördert nicht nur die Bereitstellung solcher Verwaltungs- und Forschungsdaten über alle Ministieren und Themengebiete, sondern fordert außerdem, dass eine Nutzung durch die Zivilgesellschaft ermöglicht wird. Aus diesem Grund sind einige langfristig angelegte Internetportale mit geringer Zugangshürde entstanden, die Bürgerinnen und Bürgern ermöglichen, sich selbstständig mit aktuellen Daten zu versorgen. 
 
-### Codebeispiele
+Diese Möglichkeit gewinnt insbesondere durch "Fake News" und voreingeonmmene Berichterstattung immer mehr an Bedeutung. Lehrer, Schüler und Eltern sollten die Möglichkeiten kennen, sich neutral zu informieren. Auch kann im Unterricht durch die Unterfütterung der mit konkreten, tagesaktuellen Beispielen eine starke Verbindung der Lehrplan-Themen zum Leben und Alltag der Schülerinnen und Schüler gegeben werden.
 
-Test #1
+## Vorteile der Nutzung von Behördendaten im Unterricht
 
-```bash
-# Code geht auch klar
-$yo = "mama";
-```
-
-Test #2
-
-    Einrücken mit Tab
-    In zwei Zeilen
-
-Test #3
-
-  Einrücken mit 2 spaces
-  auch in zwei Zeilen
-
-Test #4
-
-Inline `code` soll es ebenfalls geben.
+* Erhöhung des Realitätsbezugs des Unterrichts
+* Medienkompetenz der Jugend fördern
+* Aufzeigen von Wegen gegen “Fake-News“
+* Stärkung der Bürgerrechte der Jugendlichen
+* Aufklärung über Wege und Möglichkeiten zur Selbstinformation & Fakten-Recherche
 
 
-Test #5
 
-```
-    Code mit einrückung und backticks
-```
