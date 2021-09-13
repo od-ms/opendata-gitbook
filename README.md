@@ -20,18 +20,18 @@ Viele Bundes- und Landesministerien veröffentlichen aktuelle Daten auf einfach 
 
 ## Was sind offene Behördendaten?
 
-Seit Jahren gibt es einen Trend zur Schaffung von mehr Transparenz in Verwaltungen, indem die Behörden die Daten veröffentlichen, auf denen ihre Entscheidungen basieren. Das Veröffentlichen von gemeinsamen Kennzahlen hilft, regionale Vergleiche zu ermöglichen, wie z.B. durch Inzidenz-Werte in der Corona-Zeit. Diese deutschlandweit auf Kreis-Ebene verfügbare Daten sind ein wichtiges Mittel zur Steuerung des politischen Geschehens.
+Seit Jahren gibt es einen Trend zu mehr Transparenz in Verwaltungen: Behörden veröffentlichen die "Rohdaten", auf denen ihre Entscheidungen basieren. Ein Beispiel sind die Inzidenz-Werte in der Corona-Zeit. Das Veröffentlichen solcher gemeinsamen Kennzahlen hilft, regionale Vergleiche zu ermöglichen und diese deutschlandweit auf Kreis-Ebene verfügbaren Daten sind außerdem ein wichtiges Mittel zur Steuerung des politischen Geschehens.
 
 Die Datenstrategie der Bundesregierung fördert nicht nur die Bereitstellung solcher Verwaltungs- und Forschungsdaten über alle Ministieren und Themengebiete, sondern fordert außerdem, dass eine Nutzung durch die Zivilgesellschaft ermöglicht wird. Aus diesem Grund sind einige langfristig angelegte Internetportale mit geringer Zugangshürde entstanden, die Bürgerinnen und Bürgern ermöglichen, sich selbstständig mit aktuellen Daten zu versorgen. 
 
-Diese Möglichkeit gewinnt insbesondere durch "Fake News" und voreingeonmmene Berichterstattung immer mehr an Bedeutung. Lehrer, Schüler und Eltern sollten die Möglichkeiten kennen, sich neutral zu informieren. Auch kann im Unterricht durch die Unterfütterung der mit konkreten, tagesaktuellen Beispielen eine starke Verbindung der Lehrplan-Themen zum Leben und Alltag der Schülerinnen und Schüler gegeben werden.
+Diese Möglichkeit, neutrale Informationen zu erhalten, gewinnt insbesondere durch "Fake News" und voreingeonmmene Berichterstattung immer mehr an Bedeutung. Lehrer, Schüler und Eltern sollten die Möglichkeiten kennen, sich neutral zu informieren. Auch kann im Unterricht durch das Unterlegen mit konkreten, tagesaktuellen Beispielen eine starke Verbindung der Lehrplan-Themen zum Leben und Alltag der Schülerinnen und Schüler erzeugt werden.
 
 ## Vorteile der Nutzung von Behördendaten im Unterricht
 
 * Erhöhung des Realitätsbezugs des Unterrichts
 * Medienkompetenz der Jugend fördern
 * Aufzeigen von Wegen gegen “Fake-News“
-* Stärkung der Bürgerrechte der Jugendlichen
+* Stärkung der Bürgerrechte von Jugendlichen
 * Aufklärung über Wege und Möglichkeiten zur Selbstinformation & Fakten-Recherche
 
 
